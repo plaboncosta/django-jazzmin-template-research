@@ -31,3 +31,9 @@ This repository serves as a playground to test Jazzmin’s capabilities in enhan
    ```bash
    git clone https://github.com/yourusername/django-jazzmin-template-research.git
    cd django-jazzmin-template-research
+2. Copy .env.example & crete .env file and full fill the required config
+3. poetry install
+4. source $(poetry env info --path)/bin/activate
+5. python manage.py migrate
+6. python manage.py createsuperuser
+7. python manage.py runserver
