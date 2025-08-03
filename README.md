@@ -21,8 +21,8 @@ This repository serves as a playground to test Jazzmin’s capabilities in enhan
 
 ### Prerequisites
 
-- Python 3.8+
-- Django 3.2+ (or compatible version)
+- Python 3.12 >=
+- Django 5.2.4 >= (or compatible version)
 - Poetry or pip for dependency management
 
 ### Installation
